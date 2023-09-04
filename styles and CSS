@@ -1,0 +1,22 @@
+There is no difference between syle in between the tags and css.
+css are used to control the styling of the web page.
+
+
+<tagname style="property:value;property:value;........">
+property --
+          background-color
+          color
+          font-family
+          font
+          font-size
+          text-align
+          width
+          height
+
+background-color or color values are red, blue, green etc
+font, font-family vales are times new roman, calibar, etc  
+font-size it is represented with percantage(%) like 100%, 200% etc
+width, height it is represented with Pixels(px) like 230px, 3000px etc
+text-align values are center, middle, start, end, justify, start etc
+
+There are other properties like max-width, max-height etc
