@@ -1,3 +1,18 @@
-<h> -- heading <h>red</h>
-<p> -- paragraph <p>red</p>
+<h> -- heading <h>red</h> or <h1>........<hn>  good   </h1>.........</hn> n=1,2,3,.........
+<p> -- paragraph <p>red</p> or <p1>........<pn>   bad   </p1>..........</pn> n=1,2,3,.........
 <a> -- link <a href="https://www.google.com">link</a>
+<br> -- leave a line <br> hi 
+<strong> -- bold letters <strong>kill</strong>
+<img> -- image <img src="348834.jpg"  alt="image"></img>
+<ol> -- ordered list <ol> frults </ol> default style is decimal, other are small alphabits, big alphabits, Roman numbers etc.
+<ul> -- unordered list <ul> vegetables </ul> default style is disc , other are squares, circles.
+<li> -- list item <li> onion </li>
+<head> -- head of the html file <head></head>
+<title> -- title of the file <title>google</title>
+<html> -- to start a html file <html></html>
+<body> -- body of the file <body></body>
+<!DOCTYPE html> -- document type file <!DOCTYPE html>
+<table> -- table type <table></table>
+<tr> -- table row <tr></tr>
+<td> -- table data <td>23</td>
+<th> -- table header <th>id</th>
